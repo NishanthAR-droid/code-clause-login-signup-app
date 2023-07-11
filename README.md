@@ -3,7 +3,7 @@
 This is a login/signup application built with React JS and Firebase for authentication. The application allows users to authenticate using various methods, including email, Google, GitHub, Facebook, and phone number with OTP. Once authentication is successful, a welcome message is displayed to the user. The application's CSS design is implemented using Bootstrap.
 
 ## Demo
-Check out the live demo of the Weather Forecasting Application: [login signup App Demo](https://nishanthar-droid.github.io/code-clause-login-signup-app/)
+Check out the live demo of the Login Signup Application: [login signup App Demo](https://nishanthar-droid.github.io/code-clause-login-signup-app/)
 
 ## Technologies Used
 
