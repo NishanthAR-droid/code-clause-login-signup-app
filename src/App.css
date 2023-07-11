@@ -3,7 +3,7 @@ a {
 }
 
 body {
-  background-color: #fafafa;
+  background-image: linear-gradient(to right, #141e30, #243b55);
   display: flex;
   justify-content: center;
   align-content: center;
@@ -13,8 +13,12 @@ body {
 }
 
 .box {
-  border: 1px solid #dfdfdf;
-  background-color: #fff;
+  border: 1px solid #ff0000;
+  background-image: linear-gradient(
+    to top,
+    rgba(173, 252, 234, 1) 26.8%,
+    rgba(192, 229, 246, 1) 64%
+  );
 }
 
 .button-right {

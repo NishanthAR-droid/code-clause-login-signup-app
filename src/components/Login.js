@@ -87,10 +87,6 @@ const Login = () => {
         </Form>
         <hr />
         <div className="d-grid gap-2 mt-3">
-          <FacebookLoginButton onClick={handleFacebookSignIn}>
-            <span>Sign in with Facebook</span>
-          </FacebookLoginButton>
-
           <GoogleLoginButton onClick={handleGoogleSignIn}>
             <span>Sign in with Google</span>
           </GoogleLoginButton>
@@ -98,6 +94,10 @@ const Login = () => {
           <GithubLoginButton onClick={handleGithubSignIn}>
             <span>Sign in with Github</span>
           </GithubLoginButton>
+
+          <FacebookLoginButton onClick={handleFacebookSignIn}>
+            <span>Sign in with Facebook</span>
+          </FacebookLoginButton>
         </div>
 
         <Link to="/phonesignup">
