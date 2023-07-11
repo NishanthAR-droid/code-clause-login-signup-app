@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-clause-login-signup-app/static/css/main.96e25e3c.css",
+    "main.js": "/code-clause-login-signup-app/static/js/main.b177e142.js",
+    "index.html": "/code-clause-login-signup-app/index.html",
+    "main.96e25e3c.css.map": "/code-clause-login-signup-app/static/css/main.96e25e3c.css.map",
+    "main.b177e142.js.map": "/code-clause-login-signup-app/static/js/main.b177e142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e25e3c.css",
+    "static/js/main.b177e142.js"
+  ]
+}
